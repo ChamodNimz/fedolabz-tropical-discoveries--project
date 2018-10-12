@@ -1,0 +1,33 @@
+[13-Sep-2018 05:53:22 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 05:56:50 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 05:57:11 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 05:57:44 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 05:57:59 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Amends.php on line 340
+[13-Sep-2018 05:59:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Amends.php on line 340
+[13-Sep-2018 05:59:45 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Amends.php on line 340
+[13-Sep-2018 05:59:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 10:03:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 10:03:37 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 10:10:39 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 10:10:46 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 10:10:50 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Amends.php on line 340
+[13-Sep-2018 10:23:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Amends.php on line 340
+[13-Sep-2018 10:23:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Amends.php on line 340
+[13-Sep-2018 10:24:10 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Amends.php on line 340
+[13-Sep-2018 10:28:54 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 10:33:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 10:33:37 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 10:33:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Amends.php on line 340
+[13-Sep-2018 10:41:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 10:43:17 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 10:47:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 10:51:07 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Voucher.php on line 372
+[13-Sep-2018 10:56:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/colomb25/public_html/Amends.php on line 340
+[13-Sep-2018 23:14:11 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/colomb25/public_html/search.php on line 7
+[13-Sep-2018 23:14:13 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/colomb25/public_html/search.php on line 7
+[13-Sep-2018 23:14:28 America/New_York] PHP Warning:  require_once(../core/init.php): failed to open stream: No such file or directory in /home/colomb25/public_html/search.php on line 1
+[13-Sep-2018 23:14:28 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../core/init.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colomb25/public_html/search.php on line 1
+[13-Sep-2018 23:14:29 America/New_York] PHP Warning:  require_once(../core/init.php): failed to open stream: No such file or directory in /home/colomb25/public_html/search.php on line 1
+[13-Sep-2018 23:14:29 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../core/init.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colomb25/public_html/search.php on line 1
+[13-Sep-2018 23:14:31 America/New_York] PHP Warning:  require_once(../core/init.php): failed to open stream: No such file or directory in /home/colomb25/public_html/search.php on line 1
+[13-Sep-2018 23:14:31 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../core/init.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/colomb25/public_html/search.php on line 1
